@@ -1,0 +1,26 @@
+{
+  "name": "mchambaud.github.io",
+  "version": "1",
+  "homepage": "https://github.com/mchambaud/mchambaud.github.io",
+  "authors": [
+    "Michael Chambaud <mchambaud@gmail.com>"
+  ],
+  "description": "Michael Chambaud personal website",
+  "main": "index.html",
+  "keywords": [
+    "Michael",
+    "Chambaud"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "skeleton": "*"
+  }
+}
